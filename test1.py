@@ -10,7 +10,7 @@ assert "Facebook" in driver.title
 # elem.send_keys("akash.nath1")
 # elemp = driver.find_element_by_name("pass")
 # elemp.clear()
-# elemp.send_keys("akash.NATH9811036534")
+# elemp.send_keys("")
 # elemp.send_keys(Keys.RETURN)
 # WebDriverWait(driver, 200)
 # driver.scroll()
